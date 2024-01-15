@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OneMinuteBio](https://oneminutebio.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://keshav-star.github.io/](https://keshav-star.github.io/)
+- 👨‍💻 All of my projects are available at [https://keshavsandhu.netlify.app/](https://keshavsandhu.netlify.app/)
 
 - 📫 How to reach me **keshavsandhu.me@gmail.com**
 
