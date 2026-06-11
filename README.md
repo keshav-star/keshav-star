@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav-star" alt="keshav-star" /></a> </p>
 
-- 🔭 I’m currently working on [One Minute Bio](https://omb.keshavsandhu.in)
+- 🔭 I’m currently working on [One Minute Bio](https://omb.keshavs.in)
 
-- 👨‍💻 All of my projects are available at [https://keshavsandhu.in/](https://keshavsandhu.in/)
+- 👨‍💻 All of my projects are available at [https://keshavs.in/](https://keshavs.in/)
 
 - 📫 How to reach me **keshavsandhu.me@gmail.com**
 
