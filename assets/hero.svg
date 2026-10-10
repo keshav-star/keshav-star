@@ -1,0 +1,35 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Keshav Sandhu - Full Stack Software Engineer</title>
+  <desc id="desc">Animated developer profile banner showing a product pipeline from interface to API, data, and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#07111F"/><stop offset="0.52" stop-color="#0D1B2E"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8"><animate attributeName="stop-color" values="#38BDF8;#8B5CF6;#22D3EE;#38BDF8" dur="8s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#A78BFA"><animate attributeName="stop-color" values="#A78BFA;#22D3EE;#60A5FA;#A78BFA" dur="8s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <radialGradient id="glow"><stop stop-color="#38BDF8" stop-opacity="0.34"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="nodeGlow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#93C5FD" stroke-opacity="0.055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/><rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1040" cy="70" r="210" fill="url(#glow)" filter="url(#softGlow)"><animate attributeName="cx" values="1010;1070;1010" dur="9s" repeatCount="indefinite"/></circle>
+  <circle cx="70" cy="330" r="155" fill="url(#glow)" opacity=".5" filter="url(#softGlow)"><animate attributeName="cy" values="340;290;340" dur="11s" repeatCount="indefinite"/></circle>
+  <g opacity=".75"><circle cx="104" cy="72" r="2.5" fill="#7DD3FC"><animate attributeName="opacity" values=".2;1;.2" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="1120" cy="285" r="2" fill="#C4B5FD"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle><circle cx="938" cy="43" r="1.8" fill="#67E8F9"><animate attributeName="opacity" values=".15;1;.15" dur="2.2s" repeatCount="indefinite"/></circle></g>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="70" y="112" fill="#E2E8F0" font-size="18" font-weight="650" letter-spacing="4">FULL-STACK SOFTWARE ENGINEER</text>
+    <text x="67" y="180" fill="white" font-size="56" font-weight="780">Keshav Sandhu</text>
+    <rect x="70" y="208" width="505" height="3" rx="1.5" fill="url(#accent)"><animate attributeName="width" values="120;505;505;120" keyTimes="0;.3;.75;1" dur="7s" repeatCount="indefinite"/></rect>
+    <text x="70" y="252" fill="#B8C7DC" font-size="22">Scalable SaaS · Secure APIs · Generative AI · Product delivery</text>
+    <text x="70" y="299" fill="#7DD3FC" font-size="16" font-weight="650">Nearly 3 years turning complex workflows into dependable products.</text>
+  </g>
+  <g transform="translate(640 94)" font-family="Inter, ui-sans-serif, system-ui, sans-serif">
+    <path d="M54 80H144M194 80H284M334 80H424" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-dasharray="7 11"><animate attributeName="stroke-dashoffset" values="36;0" dur="2.2s" repeatCount="indefinite"/></path>
+    <g transform="translate(0 29)"><rect width="104" height="102" rx="20" fill="#111C31" stroke="#38BDF8" stroke-opacity=".65"/><text x="52" y="48" fill="#7DD3FC" font-size="25" text-anchor="middle">UI</text><text x="52" y="73" fill="#94A3B8" font-size="12" text-anchor="middle">React / Next.js</text></g>
+    <g transform="translate(140 29)"><rect width="104" height="102" rx="20" fill="#111C31" stroke="#818CF8" stroke-opacity=".65"/><text x="52" y="48" fill="#A5B4FC" font-size="25" text-anchor="middle">API</text><text x="52" y="73" fill="#94A3B8" font-size="12" text-anchor="middle">Node / REST</text></g>
+    <g transform="translate(280 29)"><rect width="104" height="102" rx="20" fill="#111C31" stroke="#A78BFA" stroke-opacity=".65"/><text x="52" y="48" fill="#C4B5FD" font-size="25" text-anchor="middle">DATA</text><text x="52" y="73" fill="#94A3B8" font-size="12" text-anchor="middle">Postgres / Redis</text></g>
+    <g transform="translate(420 29)"><rect width="104" height="102" rx="20" fill="#111C31" stroke="#22D3EE" stroke-opacity=".65"/><text x="52" y="48" fill="#67E8F9" font-size="25" text-anchor="middle">AI</text><text x="52" y="73" fill="#94A3B8" font-size="12" text-anchor="middle">RAG / Gemini</text></g>
+    <circle r="5" fill="#E0F2FE" filter="url(#nodeGlow)"><animateMotion path="M52 80H472" dur="4.4s" repeatCount="indefinite"/></circle>
+    <text x="262" y="174" fill="#7C8DA6" font-size="13" text-anchor="middle">PRODUCT FLOW · DESIGNED END TO END</text>
+  </g>
+</svg>
